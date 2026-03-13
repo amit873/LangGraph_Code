@@ -29,7 +29,7 @@
 | **project/ReAct-agent** | Classic ReAct (Reason + Act) agent in LangGraph | [link](https://github.com/amit873/Eden_LangGraph-Udmey_Course/tree/project/ReAct-agent) |
 | **project/reflection** | Minimal reflection demo – the *why* before the *wow* | [link](https://github.com/amit873/Eden_LangGraph-Udmey_Course/tree/project/reflection) |
 | **project/reflection-agent** | Full reflection agent that revises its own output | [link](https://github.com/amit873/Eden_LangGraph-Udmey_Course/tree/project/reflection-agent) |
-| **project/reflexion-agent** | Reflexion agent that learns from past runs | [link](https://github.com/v/tree/project/reflexion-agent) |
+| **project/reflexion-agent** | Reflexion agent that learns from past runs | [link](https://github.com/amit873/Eden_LangGraph-Udmey_Course/tree/project/reflexion-agent) |
 
 > ✨ **Tip:** Checkout a branch, then use `git log --oneline` to watch the lessons unfold commit-by-commit.
 
